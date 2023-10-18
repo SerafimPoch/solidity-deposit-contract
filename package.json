@@ -1,0 +1,11 @@
+{
+  "name": "solidity-deposit-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SerafimPoch/solidity-deposit-contract.git",
+  "author": "Serafim Pochapinskyi <serpochapinsky@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.8.21"
+  }
+}
